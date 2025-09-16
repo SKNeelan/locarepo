@@ -1,1 +1,2 @@
-dding new line to sample1.txt
+adding new line to sample1.txt
+second line added
